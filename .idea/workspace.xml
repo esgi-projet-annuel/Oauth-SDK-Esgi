@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ab3be49-7945-412f-8e3d-4873bcdbcda7" name="Default Changelist" comment="" />
+    <list default="true" id="1ab3be49-7945-412f-8e3d-4873bcdbcda7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OauthSDK.php" beforeDir="false" afterPath="$PROJECT_DIR$/OauthSDK.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credentials.yml" beforeDir="false" afterPath="$PROJECT_DIR$/credentials.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/api@002dsdk/User.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/api@002dsdk/db.opt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/api@002dsdk/user.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/db_data/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/db_data/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/db_data/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/ibtmp1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/columns_priv.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/columns_priv.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/columns_priv.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/db.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/db.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/db.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/db.opt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/engine_cost.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/engine_cost.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/event.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/event.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/event.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/func.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/func.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/func.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/general_log.CSM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/general_log.CSV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/general_log.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/gtid_executed.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/gtid_executed.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_category.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_category.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_keyword.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_keyword.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_relation.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_relation.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_topic.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/help_topic.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/innodb_index_stats.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/innodb_index_stats.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/innodb_table_stats.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/innodb_table_stats.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/ndb_binlog_index.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/ndb_binlog_index.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/ndb_binlog_index.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/plugin.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/plugin.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/proc.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/proc.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/proc.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/procs_priv.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/procs_priv.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/procs_priv.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/proxies_priv.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/proxies_priv.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/proxies_priv.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/server_cost.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/server_cost.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/servers.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/servers.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slave_master_info.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slave_master_info.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slave_relay_log_info.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slave_relay_log_info.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slave_worker_info.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slave_worker_info.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slow_log.CSM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slow_log.CSV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/slow_log.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/tables_priv.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/tables_priv.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/tables_priv.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_leap_second.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_leap_second.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_name.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_name.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_transition.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_transition.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_transition_type.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/time_zone_transition_type.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/user.MYD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/user.MYI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_data/mysql/user.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/providers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/providers.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,17 +101,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GenericProvider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="354">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="29" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -31,17 +119,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/credentials.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="119">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/providers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+            <state relative-caret-position="272">
+              <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -49,8 +137,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OauthSDK.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="630">
+              <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -58,8 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+            <state relative-caret-position="-50">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -71,6 +159,9 @@
       <find>fope</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -81,13 +172,13 @@
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/auth-server/index.php" />
         <option value="$PROJECT_DIR$/ProviderInterface.php" />
-        <option value="$PROJECT_DIR$/OauthSDK.php" />
         <option value="$PROJECT_DIR$/GenericProvider.php" />
         <option value="$PROJECT_DIR$/BaseSQL.php" />
         <option value="$PROJECT_DIR$/conf.inc.php" />
         <option value="$PROJECT_DIR$/User.php" />
-        <option value="$PROJECT_DIR$/credentials.yml" />
+        <option value="$PROJECT_DIR$/OauthSDK.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/credentials.yml" />
         <option value="$PROJECT_DIR$/providers.yml" />
       </list>
     </option>
@@ -101,18 +192,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="projet_sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet_sdk" type="462c0819:PsiDirectoryNode" />
+              <item name="Oauth-SDK-Esgi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Oauth-SDK-Esgi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,17 +249,17 @@
       <workItem from="1562158637707" duration="532000" />
       <workItem from="1563543663388" duration="347000" />
       <workItem from="1563912303251" duration="19952000" />
+      <workItem from="1564139058733" duration="2756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23124000" />
+    <option name="totallyTimeSpent" value="25880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19670959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -195,7 +286,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rest.http" />
     <entry file="file://$PROJECT_DIR$/auth-server/data/app.data" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/auth-client/composer.lock" />
     <entry file="file://$PROJECT_DIR$/auth-client/composer.json" />
     <entry file="file://$PROJECT_DIR$/install-composer.sh" />
@@ -210,13 +300,7 @@
     <entry file="file://$PROJECT_DIR$/site/Dockerfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractProvider.php" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -241,27 +325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OauthSDK.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GenericProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -283,24 +346,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/GenericProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+        <state relative-caret-position="354">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OauthSDK.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/credentials.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/providers.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        <state relative-caret-position="272">
+          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>

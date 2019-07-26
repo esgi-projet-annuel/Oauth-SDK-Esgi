@@ -51,7 +51,7 @@ class OauthSDK {
     public function generateState($providerName)
     {
         $state = uniqid($providerName.'_state');
-        $_SESSION['state'] = $state;
+        $_SESSION[$providerName.'_state'] = $state;
         return $state;
     }
 }
