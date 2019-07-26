@@ -1,0 +1,23 @@
+google:
+  redirect_uri: http://localhost:8099/register
+  authorization_url: https://accounts.google.com/o/oauth2/v2/auth?
+  access_token_url: https://oauth2.googleapis.com/token
+  ressources_owner_url: https://openidconnect.googleapis.com/v1/userinfo?
+  response_type: code
+  scope: openid email profile
+  mapping:
+    firstname: given_name
+    lastname: family_name
+    email: email
+
+facebook:
+  redirect_uri: http://localhost:8099/register
+  authorization_url: https://www.facebook.com/v3.3/dialog/oauth?
+  access_token_url: https://graph.facebook.com/v3.3/oauth/access_token
+  ressources_owner_url: https://www.facebook.com/v2.10?
+  response_type: code
+  scope: default email
+  mapping:
+    firstname: first_name
+    lastname: last_name
+    email: email
